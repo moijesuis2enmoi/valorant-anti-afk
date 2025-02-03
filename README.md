@@ -26,7 +26,7 @@
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-repo/valorant-anti-afk.git
+   git clone https://github.com/moijesuis2enmoi/valorant-anti-afk.git
    ```
 2. Navigate to the project folder:
    ```bash
